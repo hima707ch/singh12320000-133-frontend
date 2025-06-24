@@ -1,4 +1,5 @@
 import React from 'react';
+import images from '../assets/images';
 
 const OrderSummary = ({ orderDetails }) => {
   return (
